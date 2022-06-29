@@ -1,0 +1,12 @@
+package exam;
+
+public class String206 {
+
+	public static void main(String[] args) {
+
+		String [] name = {"kim","lee","park"};
+		System.out.println(name[2]);
+		
+	}
+
+}

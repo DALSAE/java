@@ -1,0 +1,23 @@
+package exam;
+
+public class Exam2 {
+
+	public static void main(String[] args) {
+		
+		int [] score = {30,50,60,70,80};
+		int max = score[0];
+		
+		for(int i=0; max>score[i];i++ ) {
+			max=score[i];
+		}
+		System.out.println(max);
+			//max와 배열을 순차적으로 비교해서 크면 맥스에 저장
+			//최댓값 출력
+			
+				
+			}
+		
+
+	}
+
+}
